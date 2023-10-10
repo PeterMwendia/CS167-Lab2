@@ -11,6 +11,7 @@
 ![](img/pom_config.png)
 
 ### run config
+![](./img/config.png)
 
 ### output1
 ![](./img/output1.png)
